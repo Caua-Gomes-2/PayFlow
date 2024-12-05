@@ -5,17 +5,18 @@ PayFlow é uma aplicação que permite gerenciar pagamentos de forma simples e e
 
 ## Funcionalidades
 
-## Cadastro de Usuários: Permite que novos usuários se registrem na plataforma.
-## Gerenciamento de Pagamentos: Usuários podem adicionar, editar e excluir pagamentos.
-## Relatórios Financeiros: Geração de relatórios para análise de gastos e receitas.
-## Interface Responsiva: A aplicação é otimizada para diferentes dispositivos, incluindo desktops e dispositivos móveis.
+Cadastro de Usuários: Permite que novos usuários se registrem na plataforma.
+Gerenciamento de Pagamentos: Usuários podem adicionar, editar e excluir pagamentos.
+Relatórios Financeiros: Geração de relatórios para análise de gastos e receitas.
+Interface Responsiva: A aplicação é otimizada para diferentes dispositivos, incluindo desktops e dispositivos móveis.
 
 ## Tecnologias Utilizadas:
 
-Frontend: React.js
-Backend: Node.js com Express
-Banco de Dados: MongoDB
-Autenticação: JWT (JSON Web Token)
+## Frontend: React.js
+
+## Backend: Node.js com Express
+## Banco de Dados: MongoDB
+## Autenticação: JWT (JSON Web Token)
 
 
 ## Instruções para Instalação e Execução do Projeto Localmente Para instalar e executar o projeto PayFlow localmente, siga os passos abaixo: 
