@@ -19,13 +19,14 @@ Autenticação: JWT (JSON Web Token)
 
 
 ## Instruções para Instalação e Execução do Projeto Localmente Para instalar e executar o projeto PayFlow localmente, siga os passos abaixo: 
+
 1. Clone o Repositório: Abra o terminal e execute o seguinte comando para clonar o repositório: git clone https://github.com/Caua-Gomes-2/PayFlow.git
-2. 2. Navegue até o Diretório do Projeto: Após clonar o repositório, entre no diretório do projeto: cd PayFlow
-   3. 3. Instale as Dependências do Frontend: Acesse o diretório do frontend e instale as dependências necessárias: cd frontend npm install
-      4. 4. Instale as Dependências do Backend: Agora, volte para o diretório do backend e instale as dependências: cd ../backend npm install
-         5. 5. Configure o Banco de Dados: - Certifique-se de que o MongoDB está em execução. - Configure as variáveis de ambiente conforme necessário.
-            6. 6. Inicie o Servidor: Para iniciar o servidor do backend, execute o seguinte comando: npm start
-               7. 7. Inicie o Frontend: Por fim, inicie o frontend com o comando: cd ../frontend npm start Observações Finais: - Certifique-se de que todas as dependências estão instaladas corretamente. - Verifique se o MongoDB está ativo antes de iniciar o servidor. Siga esses passos e você estará pronto para usar o PayFlow localmente!
+2. Navegue até o Diretório do Projeto: Após clonar o repositório, entre no diretório do projeto: cd PayFlow
+3. Instale as Dependências do Frontend: Acesse o diretório do frontend e instale as dependências necessárias: cd frontend npm install
+4. Instale as Dependências do Backend: Agora, volte para o diretório do backend e instale as dependências: cd ../backend npm install
+5. Configure o Banco de Dados: - Certifique-se de que o MongoDB está em execução. - Configure as variáveis de ambiente conforme necessário.
+6. Inicie o Servidor: Para iniciar o servidor do backend, execute o seguinte comando: npm start
+7. Inicie o Frontend: Por fim, inicie o frontend com o comando: cd ../frontend npm start Observações Finais: - Certifique-se de que todas as dependências estão instaladas corretamente. - Verifique se o MongoDB está ativo antes de iniciar o servidor. Siga esses passos e você estará pronto para usar o PayFlow localmente!
 
 ## Contribuição
 
