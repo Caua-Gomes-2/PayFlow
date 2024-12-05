@@ -46,4 +46,5 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para ma
 Para mais informações, entre em contato com o autor:
 
 Nome: Cauã Gomes
+
 Email: cauacesarmgomes@gmail.com
